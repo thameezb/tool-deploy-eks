@@ -1,0 +1,3 @@
+deb http://landscape-agct.gray.net/repository/standalone/ubuntu focal main universe multiverse restricted
+deb http://landscape-agct.gray.net/repository/standalone/ubuntu focal-security main universe multiverse restricted
+deb http://landscape-agct.gray.net/repository/standalone/ubuntu focal-updates main universe multiverse restricted

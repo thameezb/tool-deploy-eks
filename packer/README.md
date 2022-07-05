@@ -1,0 +1,1 @@
+Based on official Canonical Ubuntu EKS AMIs

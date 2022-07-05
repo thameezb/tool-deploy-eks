@@ -1,0 +1,5 @@
+.terraform/
+.plugins/
+*.log
+manifest.json
+*.tfplan
